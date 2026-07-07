@@ -25,8 +25,7 @@ To use Gemini's image editing features, you need to sign in with a Google Accoun
 * *Note: If you do not have a Google account, click "Create account" at the bottom left of the sign-in card and follow the quick setup steps.*
 
 
-![start page](/Final Exam/screenshots/gemini starting page.png)
-![start page](Final Exam/screenshots/sign in.png)
+
 
 <img width="1917" height="1023" alt="sign in" src="https://github.com/user-attachments/assets/7cdc86ae-23d6-4a29-baf9-ae7dfe9b9509" />
 
@@ -50,7 +49,7 @@ With your workspace active, you can now upload your original asset and command G
 
 
 
-![file upload](/Final Exam/screenshots/file upload.png)
+
 <img width="1920" height="1033" alt="file upload" src="https://github.com/user-attachments/assets/30dddd67-a200-41a7-8e76-79f4d3b58235" />
 
 
@@ -62,7 +61,7 @@ To keep the original background unchanged while seamlessly introducing a new ele
     > *"Keep this uploaded image completely identical—do not alter the shepherd, his herding dog, the mountains, the sea, or the grazing cattle. Using your local editing capabilities, seamlessly add a single, realistic wild dog (such as a rufous dhole or wild hunting dog) slinking or sitting in the mid-left grassy area near the edge of the herd. Ensure its shadow, scale, and lighting perfectly match the golden hour environment of the original photograph."*
 
 
-![prompt](/Final Exam/screenshots/prompt.png)
+
 <img width="1920" height="1024" alt="prompt" src="https://github.com/user-attachments/assets/dfd1eed6-8454-45dc-8f1d-e96716e8710e" />
 
 
@@ -86,7 +85,7 @@ To keep the original background unchanged while seamlessly introducing a new ele
 ### Original Asset
 This is the original template image uploaded to the Gemini AI workspace:
 
-![Original Landscape](/Final Exam/picture-template.jpeg)
+
 <img width="1376" height="768" alt="picture-template" src="https://github.com/user-attachments/assets/8d5cff54-0f2c-4785-87ed-adc74007e54a" />
 
 
@@ -95,7 +94,7 @@ This is the original template image uploaded to the Gemini AI workspace:
 ### Final Generated Result
 This is the final edited output showing the exact same landscape, but with a solitary wild dog realistically integrated into the mid-left field:
 
-![Final Edited Landscape with Wild Dog](/Final Exam/Gemini_Generated_Image_jpsjnljpsjnljpsj.png)
+
 <img width="1377" height="768" alt="Gemini_Generated_Image_jpsjnljpsjnljpsj" src="https://github.com/user-attachments/assets/83a15bd6-91ff-4f04-8edd-f888b7c3295f" />
 
 
