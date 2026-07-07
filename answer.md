@@ -1,3 +1,4 @@
+# Task 1 & 2
 # User Manual: Image Modification Using Google Gemini AI
 
 This step-by-step user manual guides you through the process of setting up a Google Gemini account and utilizing its native AI image-editing capabilities to seamlessly add a single wild dog to an existing landscape.
@@ -12,7 +13,6 @@ To use Gemini's image editing features, you need to sign in with a Google Accoun
 * Open your web browser and go to [gemini.google.com](https://gemini.google.com).
 * Click on the **"Sign in"** or **"Chat with Gemini"** button located in the center or upper-right corner of the page.
 
-> **Screenshot Guidance 1:** Capture a full-page screenshot of the Gemini landing page, highlighting the **"Sign in"** button.
 
 ![Sign Up Step](/Final Exam/screenshots/gemini homepage.png)
 
@@ -23,15 +23,16 @@ To use Gemini's image editing features, you need to sign in with a Google Accoun
 * Enter your secure password to complete the authentication. 
 * *Note: If you do not have a Google account, click "Create account" at the bottom left of the sign-in card and follow the quick setup steps.*
 
-> **Screenshot Guidance 2:** Capture a screenshot of the Google sign-in interface showing your email address entered before hitting next.
+
 ![start page](/Final Exam/screenshots/gemini starting page.png)
+![start page](Final Exam/screenshots/sign in.png)
+
 
 
 
 ### Step 1.3: Enter the Conversational Workspace
 * After signing in, you will be automatically redirected to the main Gemini conversational dashboard. You are now ready to begin editing.
 
-> **Screenshot Guidance 3:** Capture a screenshot of the active Gemini dashboard, showing the clean workspace interface and the empty text input bar at the bottom.
 
 
 ---
@@ -45,7 +46,7 @@ With your workspace active, you can now upload your original asset and command G
 * Click it, navigate your local files, and select your copy of `picture-template.jpeg`.
 * Wait a moment for the photo thumbnail to appear inside the text entry field.
 
-> **Screenshot Guidance 4:** Capture the prompt bar showing your uploaded image thumbnail attached and ready for a text prompt.
+
 
 ![file upload](/Final Exam/screenshots/file upload.png)
 
@@ -56,7 +57,6 @@ To keep the original background unchanged while seamlessly introducing a new ele
 * Copy and paste the following detailed instruction into the prompt bar next to your uploaded image:
     > *"Keep this uploaded image completely identical—do not alter the shepherd, his herding dog, the mountains, the sea, or the grazing cattle. Using your local editing capabilities, seamlessly add a single, realistic wild dog (such as a rufous dhole or wild hunting dog) slinking or sitting in the mid-left grassy area near the edge of the herd. Ensure its shadow, scale, and lighting perfectly match the golden hour environment of the original photograph."*
 
-> **Screenshot Guidance 5:** Capture a screenshot showing the detailed text instruction typed out right next to the attached image thumbnail.
 
 ![prompt](/Final Exam/screenshots/prompt.png)
 
@@ -65,7 +65,7 @@ To keep the original background unchanged while seamlessly introducing a new ele
 * Click the **Submit** (Send/Paper Airplane) icon.
 * Gemini will process the instruction, utilizing its spatial reasoning models to intelligently merge the wild dog into the exact location requested.
 
-> **Screenshot Guidance 6:** Capture a screenshot of the interface while Gemini displays its newly generated image options on your screen.
+
 
 ### Step 2.4: Save and Export Your Result
 * Hover your cursor over the generated image option that looks most realistic.
@@ -89,3 +89,49 @@ This is the final edited output showing the exact same landscape, but with a sol
 
 ![Final Edited Landscape with Wild Dog](/Final Exam/Gemini_Generated_Image_jpsjnljpsjnljpsj.png)
 
+
+
+
+# Task 3
+
+## Graph Navigator Bot — Complete Graph Map
+
+I explored the chatbot at [Graph Navigator Bot](https://max.ge/ai2026/final/graph_bot_Andria_Bechvaia_7317581079703.html). The bot loads a directed graph with **10 nodes**, starting at **HALO** and aiming for **NIMBO**. Every node is reachable from the start.
+
+The diagram below includes **all nodes and all transitions** (one-way arrows and bidirectional pairs), with edge weights shown on each transition.
+
+![Graph Navigator Bot — complete reachable graph](Final Exam/graph_bot_map.png)
+
+### Nodes
+
+| Node | Role | Color |
+|------|------|-------|
+| HALO | Start | Indigo |
+| STORM | — | Rose |
+| BLAZE | — | Teal |
+| QORI | — | Blue |
+| HERA | — | Magenta |
+| TITAN | — | Orange |
+| HAVEN | — | Lime |
+| PULSE | — | Yellow |
+| XENON | — | Cyan |
+| NIMBO | Goal | Green |
+
+### Transitions (with weights)
+
+| From | To | Weight | Direction |
+|------|----|--------|-----------|
+| HALO | STORM | 1 | → |
+| HALO | BLAZE | 1 | → |
+| STORM | QORI | 1 | → |
+| STORM | HERA | 1 | ↔ |
+| BLAZE | HERA | 1 | ↔ |
+| BLAZE | TITAN | 2 | → |
+| QORI | HAVEN | 1 | → |
+| QORI | HERA | 1 | ↔ |
+| HERA | PULSE | 1 | ↔ |
+| HERA | NIMBO | 4 | → |
+| TITAN | XENON | 1 | → |
+| TITAN | HAVEN | 1 | ↔ |
+| PULSE | NIMBO | 2 | → |
+| XENON | NIMBO | 1 | → |
