@@ -14,7 +14,6 @@ To use Gemini's image editing features, you need to sign in with a Google Accoun
 * Click on the **"Sign in"** or **"Chat with Gemini"** button located in the center or upper-right corner of the page.
 
 
-![Sign Up Step](/Final Exam/screenshots/gemini homepage.png)
 <img width="1919" height="1026" alt="gemini homepage" src="https://github.com/user-attachments/assets/20b2b6f9-09b8-4917-af34-fc39b2efb762" />
 
 
