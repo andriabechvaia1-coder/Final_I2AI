@@ -31,15 +31,12 @@ To use Gemini's image editing features, you need to sign in with a Google Accoun
 
 <img width="1917" height="1023" alt="sign in" src="https://github.com/user-attachments/assets/7cdc86ae-23d6-4a29-baf9-ae7dfe9b9509" />
 
-<img width="1920" height="1032" alt="gemini starting page" src="https://github.com/user-attachments/assets/ee14fefc-9e0a-46e3-94e5-428643a10458" />
-
-
 
 
 ### Step 1.3: Enter the Conversational Workspace
 * After signing in, you will be automatically redirected to the main Gemini conversational dashboard. You are now ready to begin editing.
 
-
+<img width="1920" height="1032" alt="gemini starting page" src="https://github.com/user-attachments/assets/ee14fefc-9e0a-46e3-94e5-428643a10458" />
 
 ---
 
