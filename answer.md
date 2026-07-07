@@ -15,6 +15,8 @@ To use Gemini's image editing features, you need to sign in with a Google Accoun
 
 
 ![Sign Up Step](/Final Exam/screenshots/gemini homepage.png)
+<img width="1919" height="1026" alt="gemini homepage" src="https://github.com/user-attachments/assets/20b2b6f9-09b8-4917-af34-fc39b2efb762" />
+
 
 
 
@@ -26,6 +28,10 @@ To use Gemini's image editing features, you need to sign in with a Google Accoun
 
 ![start page](/Final Exam/screenshots/gemini starting page.png)
 ![start page](Final Exam/screenshots/sign in.png)
+
+<img width="1917" height="1023" alt="sign in" src="https://github.com/user-attachments/assets/7cdc86ae-23d6-4a29-baf9-ae7dfe9b9509" />
+
+<img width="1920" height="1032" alt="gemini starting page" src="https://github.com/user-attachments/assets/ee14fefc-9e0a-46e3-94e5-428643a10458" />
 
 
 
