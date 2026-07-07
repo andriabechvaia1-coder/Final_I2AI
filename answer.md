@@ -76,7 +76,7 @@ To keep the original background unchanged while seamlessly introducing a new ele
 * Hover your cursor over the generated image option that looks most realistic.
 * Click the **"Download full size"** icon that appears on the image asset to save the final masterpiece directly to your device.
 
-> **Screenshot Guidance 7:** Capture a final screenshot showing the download icon highlighted over the generated result inside the Gemini window.
+
 
 ---
 
