@@ -55,6 +55,8 @@ With your workspace active, you can now upload your original asset and command G
 
 
 ![file upload](/Final Exam/screenshots/file upload.png)
+<img width="1920" height="1033" alt="file upload" src="https://github.com/user-attachments/assets/30dddd67-a200-41a7-8e76-79f4d3b58235" />
+
 
 
 ### Step 2.2: Provide the Spatial Editing Prompt
@@ -65,6 +67,8 @@ To keep the original background unchanged while seamlessly introducing a new ele
 
 
 ![prompt](/Final Exam/screenshots/prompt.png)
+<img width="1920" height="1024" alt="prompt" src="https://github.com/user-attachments/assets/dfd1eed6-8454-45dc-8f1d-e96716e8710e" />
+
 
 
 ### Step 2.3: Generate the Variation
@@ -87,6 +91,8 @@ To keep the original background unchanged while seamlessly introducing a new ele
 This is the original template image uploaded to the Gemini AI workspace:
 
 ![Original Landscape](/Final Exam/picture-template.jpeg)
+<img width="1376" height="768" alt="picture-template" src="https://github.com/user-attachments/assets/8d5cff54-0f2c-4785-87ed-adc74007e54a" />
+
 
 
 
@@ -94,6 +100,8 @@ This is the original template image uploaded to the Gemini AI workspace:
 This is the final edited output showing the exact same landscape, but with a solitary wild dog realistically integrated into the mid-left field:
 
 ![Final Edited Landscape with Wild Dog](/Final Exam/Gemini_Generated_Image_jpsjnljpsjnljpsj.png)
+<img width="1377" height="768" alt="Gemini_Generated_Image_jpsjnljpsjnljpsj" src="https://github.com/user-attachments/assets/83a15bd6-91ff-4f04-8edd-f888b7c3295f" />
+
 
 
 
@@ -107,6 +115,8 @@ I explored the chatbot at [Graph Navigator Bot](https://max.ge/ai2026/final/grap
 The diagram below includes **all nodes and all transitions** (one-way arrows and bidirectional pairs), with edge weights shown on each transition.
 
 ![Graph Navigator Bot — complete reachable graph](Final Exam/graph_bot_map.png)
+<img width="2862" height="1602" alt="graph_bot_map" src="https://github.com/user-attachments/assets/5097ab58-234c-4f80-b3d9-bc6cbb459ffc" />
+
 
 ### Nodes
 
